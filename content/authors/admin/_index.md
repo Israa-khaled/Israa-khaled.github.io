@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Israa Khaled
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Israa
-last_name: Khaled
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
-  icon: ''
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,51 +20,69 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Chief Scientist
 
-# Organizations/Affiliations to display in Biography block
+# Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Telecom Paris
-    # url: https://openai.com/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:israa.khaled.n@gmail.com'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/israa-khaled-495a5117b/
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.fr/citations?user=v__5kk8AAAAJ&hl=fr&oi=ao
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
-  - Evolution of Base Station Architectures
-  - Greener Radio Access Networks (RAN)
-  - RAN Technologies and Standardization
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: PhD Telecommunications
-    institution: IMT Atlantique
-    date_start: 2018-10-01
-    date_end: 2022-03-28
-    summary: |
-      Thesis specializing in 5G technologies, including massive MIMO, NOMA, and mmWave bands. Focused on developing schemes with partial channel knowledge, particularly angular information. Supervised by Dr. HDR Charlotte Langlais and Dr. Ammar El Falou. Presented papers at 5 conferences with the contributions being published in 2 IEEE journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://theses.hal.science/tel-03744486'
-
-  - area: Master’s Degree in Research in Networks, Telecommunications, and Security
-    institution: Faculty of Engineering, Lebanese University-Lebanon
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
 
-  - area: Degree in Electrical-Electronic Engineering. Section: Computer and Communications
-    institution: Faculty of Engineering, Lebanese University-Lebanon
-    date_start: 2013-08-01
-    date_end: 2018-09-01
-
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -72,12 +90,11 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |
+    summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
@@ -90,6 +107,8 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
@@ -105,7 +124,6 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -131,6 +149,10 @@ languages:
   - name: Portuguese
     percent: 25
 
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -139,7 +161,6 @@ awards:
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
@@ -150,7 +171,6 @@ awards:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
@@ -161,3 +181,6 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
+## About Me
+
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
