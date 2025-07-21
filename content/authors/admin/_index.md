@@ -11,7 +11,7 @@ last_name: Khaled
 
 # Status emoji
 status:
-  icon: 
+  icon: null
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,32 +22,25 @@ highlight_name: true
 # Role/position/tagline
 role: Postdoctoral Researcher
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
   - name: Telecom Paris
-  #  url: https://openai.com/
+    # url: https://openai.com/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:israa.khaled.n@gmail.com'
     label: E-mail Me
-  # - icon: brands/x
-  #  url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-  #  url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/israa-khaled-495a5117b/
   - icon: academicons/google-scholar
     url: https://scholar.google.fr/citations?user=v__5kk8AAAAJ&hl=fr&oi=ao
-  # - icon: academicons/orcid
-  #  url: https://orcid.org/
 
 interests:
-  - Evolution the Base Station Architectures
+  - Evolution of Base Station Architectures
   - Greener Radio Access Networks (RAN)
   - RAN Technologies and Standardization
 
@@ -61,29 +54,17 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://theses.hal.science/tel-03744486'
+
   - area: Master’s Degree in Research in Networks, Telecommunications, and Security
     institution: Faculty of Engineering, Lebanese University-Lebanon
     date_start: 2016-01-01
     date_end: 2020-12-31
-    #summary: |
-    #  GPA: 3.8/4.0
-
-    #  Courses included:
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
   - area: Degree in Electrical-Electronic Engineering. Section: Computer and Communications
     institution: Faculty of Engineering, Lebanese University-Lebanon
     date_start: 2013-08-01
     date_end: 2018-09-01
-    #summary: |
-     # GPA: 3.4/4.0
-      
-      #Courses included:
-     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
-     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -91,11 +72,12 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
@@ -108,8 +90,6 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
@@ -125,6 +105,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -150,10 +131,6 @@ languages:
   - name: Portuguese
     percent: 25
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
@@ -162,6 +139,7 @@ awards:
     icon: coursera
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
@@ -172,6 +150,7 @@ awards:
       - Synthesize your own blockchain solutions
       - Gain an in-depth understanding of the specific mechanics of Bitcoin
       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+
   - title: 'Object-Oriented Programming in R'
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
@@ -182,6 +161,3 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
-
-Israa is a postdoctoral researcher at Télécom Paris, actively involved in the JEN project within the PEPR Future Networks program https://jen.irisa.fr/members/, and is associated with the Laboratory for Information, Networking and Communication Sciences (LINCS), a joint academy-industry research and innovation Lab https://www.lincs.fr/people/. Her current research focuses on the evolution of base station architectures and the accurate modeling of their energy consumption. She obtained her Ph.D. from IMT Atlantique in Brest in 2022, where she also completed a subsequent postdoctoral fellowship. Her expertise includes radio resource management in cellular networks, wake-up radio technologies for sensor networks, and emerging technologies such as massive MIMO, millimeter-wave communications, and reconfigurable intelligent surfaces. 
