@@ -20,47 +20,47 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Telecom Engineer
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Telecom Paris
-    url: https://openai.com/
+  #  url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:israa.khaled.n@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #  url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/israa-khaled-495a5117b/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.fr/citations?user=v__5kk8AAAAJ&hl=fr&oi=ao
+  # - icon: academicons/orcid
+  #  url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Evolution the Base Station Architectures
+  - Greener Radio Access Networks (RAN)
+  - RAN Technologies and Standardization
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Telecommunications
+    institution: IMT Atlantique
+    date_start: 2018-10-01
+    date_end: 2022-03-28
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'https://theses.hal.science/tel-03744486'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
