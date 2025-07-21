@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,33 +31,33 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:israa.khale.n@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #  url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Israa-khaled
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/israa-khaled-495a5117b/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.fr/citations?user=v__5kk8AAAAJ&hl=fr&oi=ao
+  # - icon: academicons/orcid
+   # url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Evolution of Base Station Architectures
+  - Greener Radio Access Networks (RAN)
+  - RAN Technologies and Standardization
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Telecommunications
+    institution: IMT Atlantique - Brest
+    date_start: 2018-10-01
+    date_end: 2022-03-28
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis specializing in 5G technologies, including massive MIMO, NOMA, and mmWave bands. Focused on developing schemes with partial channel knowledge, particularly angular information. Supervised by Dr. HDR Charlotte Langlais and Dr. Ammar El Falou. Presented papers at 5 conferences with the contributions being published in 2 IEEE journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
