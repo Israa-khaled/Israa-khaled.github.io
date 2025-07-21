@@ -11,7 +11,7 @@ last_name: Khaled
 
 # Status emoji
 status:
-  icon: null
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
