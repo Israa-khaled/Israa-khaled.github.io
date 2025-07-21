@@ -11,7 +11,7 @@ last_name: Khaled
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -72,7 +72,7 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-     
+
   - area: Degree in Electrical-Electronic Engineering. Section: Computer and Communications
     institution: Faculty of Engineering, Lebanese University-Lebanon
     date_start: 2013
