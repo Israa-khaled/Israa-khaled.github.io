@@ -75,8 +75,8 @@ education:
 
   - area: Degree in Electrical-Electronic Engineering. Section: Computer and Communications
     institution: Faculty of Engineering, Lebanese University-Lebanon
-    date_start: 2013
-    date_end: 2028
+    date_start: 2013-08-01
+    date_end: 2018-09-01
     #summary: |
      # GPA: 3.4/4.0
       
