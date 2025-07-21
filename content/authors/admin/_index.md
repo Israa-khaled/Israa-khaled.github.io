@@ -57,32 +57,33 @@ education:
     date_start: 2018-10-01
     date_end: 2022-03-28
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis specializing in 5G technologies, including massive MIMO, NOMA, and mmWave bands. Focused on developing schemes with partial channel knowledge, particularly angular information. Supervised by Dr. HDR Charlotte Langlais and Dr. Ammar El Falou. Presented papers at 5 conferences with the contributions being published in 2 IEEE journals.
     button:
       text: 'Read Thesis'
       url: 'https://theses.hal.science/tel-03744486'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Master’s Degree in Research in Networks, Telecommunications, and Security
+    institution: Faculty of Engineering, Lebanese University-Lebanon
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+    #summary: |
+    #  GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+    #  Courses included:
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     
+  - area: Degree in Electrical-Electronic Engineering. Section: Computer and Communications
+    institution: Faculty of Engineering, Lebanese University-Lebanon
+    date_start: 2013
+    date_end: 2028
+    #summary: |
+     # GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #Courses included:
+     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      #- lorem ipsum dolor sit amet, consectetur adipiscing elit
+     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
