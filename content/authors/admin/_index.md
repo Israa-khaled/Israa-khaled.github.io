@@ -141,13 +141,13 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    proficiency: Professional
-  - name: French
-    proficiency: Courant
-  - name: Arabic
-    proficiency: Native
+skills:
+  - name: Languages
+    items:
+      - name: Arabic (Native)
+      - name: French (Courant)
+      - name: English (Professional)
+
 
 
 # Awards.
