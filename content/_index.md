@@ -35,8 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a research engineer interrested on studying the radio access networks, and especially the emerging technologies that will conduct an improvement in our life story. I blog about radio access networks, base station architectures, emerging technologies, and interrested to study how the AI will integrate and improve the cellular networks.        
-        
+        I'm a research engineer interested in radio access networks and emerging technologies, as massive MIMO, beamforming, non terrestrial networks, etc that can make our lives better. I focus on things like base station design and how AI can help improve the performance of future cellular networks.        
+
         Please reach out to collaborate 😃
     design:
       columns: '1'
