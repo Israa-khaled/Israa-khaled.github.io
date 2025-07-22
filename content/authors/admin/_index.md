@@ -158,7 +158,9 @@ awards:
     certificate_url: https://www.coursera.org/account/accomplishments/verify/CZCJVQHT3JHX
     date: '2025-07-08'
     awarder: Coursera
-    icon: eit
+    icon: custom/eit
+    url: https://eit.europa.eu/
+    label: EIT
     summary: |
       I studied the foundational concepts of standardisation and technology. By the end of the course, I was familiar with the significant roles of key organizations like 3GPP, ETSI, and ITU, understanding the differences between them and how they work to ensure that innovation remains consistent, interoperable, and scalable across vendors and countries—avoiding fragmentation and unpredictability.
   - title: 'Supervised Machine Learning: Regression and Classification'
