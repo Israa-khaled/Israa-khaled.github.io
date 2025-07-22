@@ -22,9 +22,6 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
   - Millimeter-wave networks
-multiple-input multiple-output
-beamforming
- non-orthogonal multiple access.
 
 # Display this page in the Featured widget?
 featured: true
