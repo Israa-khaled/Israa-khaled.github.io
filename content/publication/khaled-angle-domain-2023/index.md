@@ -14,7 +14,7 @@ publication: '*IEEE Open Journal of the Communications Society*'
 links:
 - name: URL
   url: https://ieeexplore.ieee.org/abstract/document/10064118/
----
+
 abstract: Thanks to the high directionality of millimeter-wave (mmWave) channels, angle-domain beamforming is an appealing technique for multi-user multiple-input multiple-output (MU-MIMO) in terms of sum-throughput performance and limited feedback. By utilizing only the angular information of users at the transmitter, we propose an angle-domain non-orthogonal multiple access (NOMA) scheme to enhance the sum-throughput of the mmWave MU-MIMO system, especially in congested cells. We first derive a set of angular-based performance metrics, such as the inter-user spatial interference, the user channel quality, and the sum-throughput, by exploiting the specific features of the mmWave propagation. Then, a multi-user clustering algorithm is developed based on the spatial interference metric, and a new user ordering strategy is proposed using the angular-based channel quality metric. Additionally, we design a power allocation method that maximizes the angular-based sum-throughput. Extensive numerical results show that the proposed scheme significantly improves the performance of the mmWave MU-MIMO system by achieving up to 39% increase in the spectral efficiency when the number of users is close to the number of antennas. Moreover, we find that the proposed user ordering strategy outperforms other limited feedback strategies, and the angular-based power allocation allows for efficient successive interference cancellation.
 
 # Summary. An optional shortened abstract.
