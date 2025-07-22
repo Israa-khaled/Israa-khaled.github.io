@@ -35,9 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I'm a research engineer interrested on studying the radio access networks, and especially the emerging technologies that will conduct an improvement in our life story. I blog about radio access networks, base station architectures, emerging technologies, and interrested to study how the AI will integrate and improve the cellular networks.        
         
         Please reach out to collaborate 😃
     design:
