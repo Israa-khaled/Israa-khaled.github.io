@@ -140,8 +140,6 @@ skills:
         description: ''
         percent: 80
         icon: camera
-
-skills:
   - name: Languages
     items:
       - name: Arabic (Native)
@@ -157,29 +155,20 @@ skills:
 awards:
   - title: Standardisation & Technology
     url: https://www.coursera.org/account/accomplishments/verify/CZCJVQHT3JHX
+    certificate_url: https://www.coursera.org/account/accomplishments/verify/CZCJVQHT3JHX
     date: '2025-07-08'
     awarder: Coursera
     icon: coursera
     summary: |
       I studied the foundational concepts of standardisation and technology. By the end of the course, I was familiar with the significant roles of key organizations like 3GPP, ETSI, and ITU, understanding the differences between them and how they work to ensure that innovation remains consistent, interoperable, and scalable across vendors and countries—avoiding fragmentation and unpredictability.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+  - title: 'Supervised Machine Learning: Regression and Classification'
+    url: https://www.coursera.org/account/accomplishments/verify/O2F09GCZLA80
+    certificate_url: https://www.coursera.org/account/accomplishments/verify/O2F09GCZLA80 
+    date: '2025-04-30'
+    awarder: Coursera
+    icon: coursera
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      This course included several labs where I got to practice using supervised machine learning. I already knew the basics, but the course helped me focus on how to use it better and how to build projects using tools like TensorFlow and SymPy.
 ---
 
 ## About Me
