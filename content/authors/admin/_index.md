@@ -163,14 +163,6 @@ skills:
         percent: 80
         icon: camera
 
-sections:
-  - block: custom
-    content:
-      title: Languages
-      body: |
-        **Arabic** — Native  
-        **French** — Courant  
-        **English** — Professional
 
 
 
