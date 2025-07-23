@@ -5,7 +5,9 @@ date: 2025-07-07
 type: docs
 math: false
 tags:
-  - Intereference, mmWave communications, MIMO
+  - Intereference
+  - mmWave communications
+  - MIMO
   - Angular information
 image:
   caption: ''
