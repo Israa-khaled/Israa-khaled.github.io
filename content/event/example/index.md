@@ -1,7 +1,7 @@
 ---
 title: My PhD Defense
 
-event: Hugo Blox Builder Conference
+event: My PhD Defense
 event_url: https://example.org
 
 location: IMT Atlantique Bretagne-Pays de la Loire
@@ -12,8 +12,8 @@ address:
   postcode: '29238'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: I successfully defended my PhD thesis in the telecommunications domain at IMT Atlantique, where I conducted advanced research on cutting-edge communication technologies.
+abstract: 'vgvg'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -51,7 +51,7 @@ url_video: 'https://youtube.com'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: "/PhD_Defense_IKH.pptx"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
