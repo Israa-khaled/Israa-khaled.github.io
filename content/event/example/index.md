@@ -12,7 +12,7 @@ address:
   postcode: '29238'
   country: United States
 
-summary: I successfully defended my PhD thesis in the telecommunications domain at IMT Atlantique, where I conducted advanced research on cutting-edge communication technologies.
+summary: IKH I successfully defended my PhD thesis in the telecommunications domain at IMT Atlantique, where I conducted advanced research on cutting-edge communication technologies.
 abstract: 'vgvg'
 
 # Talk start and end times.
@@ -43,7 +43,7 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: '/workspaces/Israa-khaled.github.io/content/event/example/PhD_Defense_IKH.pptx'
+url_slides: "/uploads/PhD_Defense_IKH.pptx"
 url_video: ''
 
 # Markdown Slides (optional).
@@ -52,7 +52,7 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 
-slides: "uploads/PhD_Defense_IKH.pptx"
+slides: "/uploads/PhD_Defense_IKH.pptx"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
