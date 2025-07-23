@@ -170,19 +170,12 @@ skills:
         description: ''
         percent: 80
         icon: camera
-  - name: Languages
-    items:
-      - name: Arabic (Native)
-      - name: French (Courant)
-      - name: English (Professional)
 
-other_languages:
-  - name: Arabic
-    description: Native
-  - name: French
-    description: Fluent (C1)
-  - name: English
-    description: Professional Working Proficiency (C1)
+language_proficiency:
+  - Arabic – Native
+  - French – Fluent (C1)
+  - English – Professional Working Proficiency (C1)
+
 
 
 
