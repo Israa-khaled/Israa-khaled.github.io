@@ -163,10 +163,14 @@ skills:
         percent: 80
         icon: camera
 
-language_proficiency:
-  - Arabic – Native
-  - French – Fluent (C1)
-  - English – Professional Working Proficiency (C1)
+languages:
+  - name: English
+    proficiency: Professional
+  - name: French
+    proficiency: Fluent
+  - name: Arabic
+    proficiency: Native
+
 
 
 
