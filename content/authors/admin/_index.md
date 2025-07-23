@@ -165,11 +165,11 @@ skills:
 
 languages:
   - name: English
-    proficiency: Professional
-  - name: French
-    proficiency: Fluent
-  - name: Arabic
-    proficiency: Native
+    items :
+      - name: French
+        proficiency: Fluent
+      - name: Arabic
+        proficiency: Native
 
 
 
