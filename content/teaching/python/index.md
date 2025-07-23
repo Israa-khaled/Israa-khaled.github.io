@@ -68,3 +68,18 @@ Here’s a simplified example:
 
 If two users have estimated angles θ₁ and θ₂, the interference metric \( \mathcal{I}(\theta_1, \theta_2) \) can be defined as:
 
+
+Where `a(θ)` is the array response vector at angle θ. A value close to 1 indicates high spatial overlap (more interference), while a value near 0 suggests minimal interference.
+
+---
+
+## Conclusion
+
+Measuring spatial inter-user interference using only angular information is not only feasible but also practical in mmWave and massive MIMO systems. By leveraging angular sparsity, we can estimate interference, cluster users, and optimize beamforming—all without requiring full CSI.
+
+This angular-based analysis is a powerful tool for designing next-generation wireless networks that are more efficient, scalable, and interference-aware.
+
+
+![Angular interference illustration](/uploads/featured.jpg)
+
+---
