@@ -100,14 +100,6 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-        
-  - block: custom
-    content:
-      title: Languages
-      body: |
-        **Arabic** — Native  
-        **French** — Courant  
-        **English** — Professional
 
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
