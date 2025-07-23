@@ -176,6 +176,13 @@ skills:
       - name: French (Courant)
       - name: English (Professional)
 
+languages:
+  - language: Arabic
+    proficiency: Native
+  - language: French
+    proficiency: Fluent
+  - language: English
+    proficiency: Professional Working Proficiency
 
 
 # Awards.
