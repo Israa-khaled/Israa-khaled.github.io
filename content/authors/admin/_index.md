@@ -52,30 +52,30 @@ interests:
   - Greener Cellular Networks
 
 education:
-  - area: PhD Telecommunications
-    institution: IMT Atlantique - Brest
+  - area: Ph.D. in Telecommunications
+    institution: IMT Atlantique - Brest, France
     date_start: 2018-10-01
     date_end: 2022-03-28
     summary: |
-      Thesis specializing in 5G technologies, including massive MIMO, NOMA, and mmWave bands. Focused on developing schemes with partial channel knowledge, particularly angular information. Supervised by Dr. HDR Charlotte Langlais and Dr. Ammar El Falou. Presented papers at 5 conferences with the contributions being published in 2 IEEE journals.
+      Thesis specializing in 5G technologies, including massive MIMO, NOMA, and mmWave bands. Focused on developing communication schemes with partial channel knowledge, particularly angular information. Supervised by Dr. HDR Charlotte Langlais and Dr. Ammar El Falou. Presented papers at 5 international conferences with peer-reviewed contributions published in two IEEE journals.
     button:
       text: 'Read Thesis'
       url: 'https://theses.hal.science/tel-03744486'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    #summary: |
-     # GPA: 3.8/4.0
 
-    #  Courses included:
-    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-     # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master's Degree in Research in Networks, Telecommunications, and Security
+    institution: Faculty of Engineering, Lebanese University
+    date_start: 2017-10-01
+    date_end: 2018-07-01
+    summary: |
+      Focused on wireless communication systems and network security. Contributed to research on 5G propagation channels and precoding for large antenna arrays.
+
+  - area: B.Eng. in Electrical and Electronic Engineering – Computer and Communications Section
+    institution: Faculty of Engineering, Lebanese University
+    date_start: 2013-10-01
+    date_end: 2018-07-01
+    summary: |
+      Covered core engineering subjects with specialization in embedded systems, wireless communication, and digital signal processing.
+
     #summary: |
      # GPA: 3.4/4.0
       
