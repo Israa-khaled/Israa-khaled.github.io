@@ -63,14 +63,14 @@ education:
       url: 'https://theses.hal.science/tel-03744486'
 
   - area: Master's Degree in Research in Networks, Telecommunications, and Security
-    institution: Faculty of Engineering, Lebanese University, Lebanon
+    institution: Faculty of Engineering - Lebanese University, Lebanon
     date_start: 2017-10-01
     date_end: 2018-07-01
     summary: |
       Focused on wireless communication systems and network security. Contributed to research on 5G propagation channels and precoding for large antenna arrays.
 
   - area: B.Eng. in Electrical and Electronic Engineering – Computer and Communications Section
-    institution: Faculty of Engineering, Lebanese University, Lebanon
+    institution: Faculty of Engineering - Lebanese University, Lebanon
     date_start: 2013-10-01
     date_end: 2018-07-01
     summary: |
@@ -163,13 +163,14 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    items :
-      - name: French
-        proficiency: Fluent
-      - name: Arabic
-        proficiency: Native
+sections:
+  - block: custom
+    content:
+      title: Languages
+      body: |
+        **Arabic** — Native  
+        **French** — Courant  
+        **English** — Professional
 
 
 
