@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Technical Reflections
 summary: My courses
 type: landing
 
@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: Technical Reflections
       filters:
         folders:
           - teaching
