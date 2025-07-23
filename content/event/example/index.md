@@ -43,7 +43,7 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: 'uploads/PhD_Defense_IKH.pptx'
+url_slides: '/workspaces/Israa-khaled.github.io/content/event/example/PhD_Defense_IKH.pptx'
 url_video: ''
 
 # Markdown Slides (optional).
