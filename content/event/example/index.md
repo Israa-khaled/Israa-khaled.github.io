@@ -43,7 +43,7 @@ image:
 #    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
-url_slides: "/uploads/PhD_Defense_IKH.pptx"
+url_slides: uploads/PhD_Defense_IKH.pptx
 url_video: ''
 
 # Markdown Slides (optional).
@@ -52,7 +52,7 @@ url_video: ''
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 
-slides: "/uploads/PhD_Defense_IKH.pptx"
+# slides: "uploads/PhD_Defense_IKH.pptx"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
