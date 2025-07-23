@@ -1,15 +1,15 @@
 ---
-title: Example Talk
+title: My PhD Defense
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: IMT Atlantique Bretagne-Pays de la Loire
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street:  Brest cedex 03
+  city: Technopôle Brest-Iroise
+  region: ''
+  postcode: '29238'
   country: United States
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
