@@ -84,28 +84,58 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Postdoctoral Researcher
+    company_name: LTCI, Télécom Paris, Institut Polytechnique
+    company_url: 'https://www.telecom-paris.fr/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2025-02-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    summary: |
+      - Research conducted within the framework of the [PEPR project](https://jen.irisa.fr/members/) and the [LINCS Lab](https://www.lincs.fr/people/).
+      - Modeling energy consumption in 4G and 5G radio access networks.
+
+  - position: Radio Frequency Engineer – Test & Characterization
+    company_name: Vectrawave
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-11-01
+    date_end: 2024-02-29
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Designed and developed evaluation boards for Monolithic Microwave Integrated Circuits (MMICs) using AutoCAD.
+      - Performed RF characterization and measurement of MMICs, including S-parameters and power benches.
+
+  - position: Postdoctoral Research Fellow
+    company_name: LabSTICC, IMT Atlantique
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-05-01
+    date_end: 2023-10-31
+    summary: |
+      - Developed MIMO-assisted wake-up radio methods to improve energy efficiency in IoT networks.
+      - Derived analytical models using stochastic geometry.
+      - Supervised two research internships:
+        - April – August 2022: Extended NYUSIM (NYU’s mmWave simulator) to support Reconfigurable Intelligent Surfaces (RIS).
+        - April – September 2024: Investigated MIMO + wake-up radio integration with beamforming and channel modeling.
+
+  - position: Research Engineer / Ph.D. Candidate
+    company_name: LabSTICC, IMT Atlantique
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-10-01
+    date_end: 2022-03-28
+    summary: |
+      - Developed angle-domain NOMA schemes for massive MIMO mmWave systems using partial channel state information.
+      - Introduced new angular performance metrics for mmWave propagation environments.
+      - Designed and optimized resource allocation algorithms using angular data to enhance spectral efficiency.
+
+  - position: Research Intern
+    company_name: LabSTICC, IMT Atlantique
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-03-01
+    date_end: 2018-07-31
+    summary: |
+      - Investigated the effects of 5G channel models and large-scale 2D/3D antenna arrays on precoding techniques.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
