@@ -146,10 +146,10 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Matlab
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: fa-code
       - name: SQL
         description: ''
         percent: 40
