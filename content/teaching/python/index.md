@@ -5,9 +5,7 @@ date: 2025-07-07
 type: docs
 math: false
 tags:
-  - Intereference
-  - mmWave communications
-  - MIMO
+  - Intereference, mmWave communications, MIMO
   - Angular information
 image:
   caption: ''
@@ -23,9 +21,6 @@ For example, for multi-user transmission
 In mmWave massive MIMO 
 
 **Due to the importance of this metric, I aim in this article to present how we could measure** 
-
-
-
 
 {{< math >}}
 $$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
