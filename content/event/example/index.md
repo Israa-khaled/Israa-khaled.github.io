@@ -2,27 +2,27 @@
 title: My PhD Defense
 
 event: My PhD Defense
-event_url: https://example.org
+event_url: ''
 
-location: IMT Atlantique Bretagne-Pays de la Loire
+location: IMT Atlantique Bretagne - Pays de la Loire
 address:
-  street:  Brest cedex 03
-  city: Technopôle Brest-Iroise
+  street:  Technopôle Brest-Iroise
+  city: Brest cedex 03
   region: ''
   postcode: '29238'
-  country: United States
+  country: France
 
 summary: IKH I successfully defended my PhD thesis in the telecommunications domain at IMT Atlantique, where I conducted advanced research on cutting-edge communication technologies.
-abstract: 'vgvg'
+abstract: 'To support the growing demand for high-capacity wireless networks, this work explores a combination of mmWave, massive MIMO, and NOMA technologies. It focuses on reducing power, complexity, and channel estimation challenges by leveraging the directional nature of mmWave channels. Using angular information, the study proposes low-complexity beamforming, user clustering, and hybrid schemes that enable efficient multi-user communication, even in overloaded systems with limited RF chains.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-03-28'
+#date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+#publishDate: '2017-01-01T00:00:00Z'
 
 authors:
   - admin
@@ -42,7 +42,7 @@ image:
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: ''
+url_pdf: uploads/PV_IKH.pdf
 url_slides: uploads/PhD_Defense_IKH.pptx
 url_video: ''
 
@@ -63,14 +63,7 @@ projects:
   - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+ {{% callout note %}}
+ Click on the **Slides** button above to view my presentation, and on the **PDF** button to access the official minutes of my PhD defense.
+ {{% /callout %}}
 
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
