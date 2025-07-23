@@ -177,12 +177,13 @@ skills:
       - name: English (Professional)
 
 languages:
-  - language: Arabic
-    proficiency: Native
-  - language: French
-    proficiency: Fluent
-  - language: English
-    proficiency: Professional Working Proficiency
+  - name: Arabic
+    level: Native
+  - name: French
+    level: Fluent (C1)
+  - name: English
+    level: Professional Working Proficiency (C1)
+
 
 
 # Awards.
