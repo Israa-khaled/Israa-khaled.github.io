@@ -9,7 +9,7 @@ address:
   street:  ''
   city: Brest
   region: ''
-  postcode: ''
+  postcode: '29200'
   country: 'France'
 
 summary: I successfully defended my PhD thesis in the telecommunications domain at IMT Atlantique, where I conducted advanced research on cutting-edge communication technologies.
@@ -22,7 +22,7 @@ date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-07-23'
 
 authors:
   - admin
@@ -32,9 +32,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+#image:
+ # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+# focal_point: Right
 
 #links:
 #  - icon: twitter
@@ -59,8 +59,13 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+#projects:
+ # - example
+
+button:
+    text: 'Read Thesis'
+    url: 'https://theses.hal.science/tel-03744486'
+
 ---
 
  {{% callout note %}}
