@@ -1,5 +1,5 @@
 ---
-title: How could we measure the spatial inter-user interference using only the angular information ? 
+title: Is it possible to measure spatial interference using only angular information? 
 date: 2025-07-23
 author: admin
 tags: [mmWave, Interference, Massive MIMO, Angular Information, Beamforming]
@@ -82,4 +82,5 @@ This angular-based analysis is a powerful tool for designing next-generation wir
 
 ![Angular interference illustration](/uploads/featured.jpg)
 
+Feel free to refer to my article and/ or chapter 4 of phd manuscript for more details ! 
 ---
