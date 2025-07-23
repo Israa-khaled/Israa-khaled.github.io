@@ -149,23 +149,15 @@ skills:
       - name: Matlab
         description: ''
         percent: 100
-        icon: fa-code
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Writing
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
+        icon: Writing
       - name: Photography
         description: ''
         percent: 80

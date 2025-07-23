@@ -6,18 +6,18 @@ event_url: ''
 
 location: IMT Atlantique Bretagne - Pays de la Loire
 address:
-  street:  Technopôle Brest-Iroise
-  city: Brest cedex 03
+  street:  ''
+  city: Brest
   region: ''
-  postcode: '29238'
-  country: France
+  postcode: ''
+  country: 'France'
 
-summary: IKH I successfully defended my PhD thesis in the telecommunications domain at IMT Atlantique, where I conducted advanced research on cutting-edge communication technologies.
+summary: I successfully defended my PhD thesis in the telecommunications domain at IMT Atlantique, where I conducted advanced research on cutting-edge communication technologies.
 abstract: 'To support the growing demand for high-capacity wireless networks, this work explores a combination of mmWave, massive MIMO, and NOMA technologies. It focuses on reducing power, complexity, and channel estimation challenges by leveraging the directional nature of mmWave channels. Using angular information, the study proposes low-complexity beamforming, user clustering, and hybrid schemes that enable efficient multi-user communication, even in overloaded systems with limited RF chains.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-03-28'
+date: '2025-07-23'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
