@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: Ph.D. in Telecommunications
-    institution: IMT Atlantique - Brest, France
+    institution: IMT Atlantique, France
     date_start: 2018-10-01
     date_end: 2022-03-28
     summary: |
@@ -63,14 +63,14 @@ education:
       url: 'https://theses.hal.science/tel-03744486'
 
   - area: Master's Degree in Research in Networks, Telecommunications, and Security
-    institution: Faculty of Engineering, Lebanese University
+    institution: Faculty of Engineering, Lebanese University, Lebanon
     date_start: 2017-10-01
     date_end: 2018-07-01
     summary: |
       Focused on wireless communication systems and network security. Contributed to research on 5G propagation channels and precoding for large antenna arrays.
 
   - area: B.Eng. in Electrical and Electronic Engineering – Computer and Communications Section
-    institution: Faculty of Engineering, Lebanese University
+    institution: Faculty of Engineering, Lebanese University, Lebanon
     date_start: 2013-10-01
     date_end: 2018-07-01
     summary: |
@@ -176,13 +176,14 @@ skills:
       - name: French (Courant)
       - name: English (Professional)
 
-languages:
+other_languages:
   - name: Arabic
-    level: Native
+    description: Native
   - name: French
-    level: Fluent (C1)
+    description: Fluent (C1)
   - name: English
-    level: Professional Working Proficiency (C1)
+    description: Professional Working Proficiency (C1)
+
 
 
 
