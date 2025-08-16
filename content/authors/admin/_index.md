@@ -47,7 +47,7 @@ profiles:
    # url: https://orcid.org/
 
 interests:
-  - Evolution of Base Station Architectures
+  - Evolution of RAN Architectures
   - RAN Technologies and Standardization
   - Greener Cellular Networks
 
@@ -194,4 +194,4 @@ awards:
 
 ## About Me
 
-Israa is a postdoctoral researcher at Télécom Paris, actively involved in the JEN project within the PEPR Future Networks program https://jen.irisa.fr/members/, and is associated with the Laboratory for Information, Networking and Communication Sciences (LINCS), a joint academy-industry research and innovation Lab https://www.lincs.fr/people/. Her current research focuses on the evolution of base station architectures and the accurate modeling of their energy consumption. She obtained her Ph.D. from IMT Atlantique in Brest in 2022, where she also completed a subsequent postdoctoral fellowship. Her expertise includes radio resource management in cellular networks, wake-up radio technologies for sensor networks, and emerging technologies such as massive MIMO, millimeter-wave communications, and reconfigurable intelligent surfaces. 
+Israa is a postdoctoral researcher at Télécom Paris, actively involved in the JEN project within the [PEPR Future Networks program](https://jen.irisa.fr/members/), and is associated with the [Laboratory for Information, Networking and Communication Sciences (LINCS)](https://www.lincs.fr/people/), a joint academy-industry research and innovation Lab. Her current research focuses on the evolution of base station architectures and the accurate modeling of their energy consumption. She obtained her Ph.D. from IMT Atlantique in Brest in 2022, where she also completed a subsequent postdoctoral fellowship. Her expertise includes radio resource management in cellular networks, wake-up radio technologies for sensor networks, and emerging technologies such as massive MIMO, millimeter-wave communications, and reconfigurable intelligent surfaces. 

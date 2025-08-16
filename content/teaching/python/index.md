@@ -51,7 +51,7 @@ $$
 
 For a ULA along the {{< math >}}$$ x $$ {{< /math >}}-axis, this simplifies to {{< math >}}$$ AF_{(\theta_{1,u})}(\theta) $$ {{< /math >}}.
 
-![Normalized array factor](pattern_beta.jpg)  
+![Normalized array factor](/uploads/pattern_beta.jpg)  
 *Illustration of the normalized array factor {{< math >}}$$ AF_{(\theta_{1,u})}(\theta) $$ {{< /math >}} of the beam pointed toward UE {{< math >}}$$ u $$ {{< /math >}} and the value for UE {{< math >}}$$ k $$ {{< /math >}}.*
 
 Thus, {{< math >}}$$ \beta $$ {{< /math >}} is an important metric to determine inter-user spatial interference using only the users’ spatial directions {{< math >}}$$ \vec{\Theta}_{1,k} $$ {{< /math >}}. We define an interference threshold {{< math >}}$$ \beta_0 $$ {{< /math >}}, such that {{< math >}}$$ \beta_{k,u} \ge \beta_0 $$ {{< /math >}} indicates the LoS path of UE {{< math >}}$$ k $$ {{< /math >}} lies in the UE {{< math >}}$$ u $$ {{< /math >}} beam. The {{< math >}}$$ \beta_0 $$ {{< /math >}}-beamwidth {{< math >}}$$ \Omega_u^{\beta_0} $$ {{< /math >}} defines the angular distance satisfying {{< math >}}$$ |AF_{(\vec{\Theta}_{1,u})}(\vec{\Theta}_0)| = \beta_0 $$ {{< /math >}}.
@@ -63,7 +63,7 @@ UE {{< math >}}$$ k $$ {{< /math >}}, having {{< math >}}$$ \beta_{k,u} \ge \bet
 **Proof:**  
 With {{< math >}}$$ d = \frac{\lambda}{2} $$ {{< /math >}}, a single main lobe exists in {{< math >}}$$ (0, \pi) $$ {{< /math >}}, surrounded by side lobes [Visser, 2005]. {{< math >}}$$ \beta_{k,u} \ge \beta_0 $$ {{< /math >}} ensures UE {{< math >}}$$ k $$ {{< /math >}} belongs to {{< math >}}$$ \Omega_u^{\beta_0} $$ {{< /math >}}. To select only users covered by the main lobe, {{< math >}}$$ \beta_0 $$ {{< /math >}} must exceed the first side lobe level {{< math >}}$$ \beta^{\text{FSL}} = 0.217 $$ {{< /math >}}.
 
-![First side lobe](pattern_beta.jpg)  
+![First side lobe](/uploads/pattern_beta.jpg)  
 *Normalized array factor of the beam generated toward UE {{< math >}}$$ u $$ {{< /math >}} for {{< math >}}$$ \theta_{1,u} \in \{50^\circ, 110^\circ\}, M = 16 $$ {{< /math >}}.*
 
 

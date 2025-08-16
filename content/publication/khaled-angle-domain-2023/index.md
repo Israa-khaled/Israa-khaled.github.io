@@ -20,8 +20,8 @@ abstract: Thanks to the high directionality of millimeter-wave (mmWave) channels
 # Summary. An optional shortened abstract.
 summary: We propose an angle-domain NOMA scheme for mmWave MU-MIMO systems that uses only users’ angular information to boost sum-throughput, especially in crowded cells. By designing new clustering, user ordering, and power allocation strategies based on angular metrics, our approach improves spectral efficiency by up to 39% and enables more effective interference management.
 
-tags:
-  - Millimeter-wave networks
+tags: [MIMO, Hynrid Beamforming, MmWave, NOMA, partial channel state information]
+
 
 # Display this page in the Featured widget?
 featured: true
@@ -63,12 +63,3 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

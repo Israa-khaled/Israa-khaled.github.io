@@ -35,9 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a research engineer interested in radio access networks and emerging technologies, as massive MIMO, beamforming, non terrestrial networks, etc that can make our lives better. I focus on things like base station design and how AI can help improve the performance of future cellular networks.        
+        I’m a research engineer in radio access networks and emerging wireless technologies. My expertise spans radio resource management in cellular systems, wake-up radio for sensor networks, advanced topics such as massive MIMO, millimeter-wave communications, and reconfigurable intelligent surfaces (RIS), and power consumption models for the 4G and 5G radio access networks.
+        
+        
+        I’m particularly passionate about standardization efforts and contributing to the development of innovative technologies that shape the future of telecommunications.
+        
+        🚀 Always open to discussions and collaborations — feel free to reach out! 😃        
 
-        Please reach out to collaborate 😃
     design:
       columns: '1'
   - block: collection
