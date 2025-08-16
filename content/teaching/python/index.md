@@ -10,7 +10,14 @@ summary: Learn how angular information can be used to estimate inter-user interf
 
 ## Introduction
 
-In modern wireless communication systems, **interference** is a critical performance-limiting factor. It directly impacts key metrics such as **Signal-to-Interference-plus-Noise Ratio (SINR)**, **data throughput**, and **system reliability**. Among the various types of interference, **spatial inter-user interference** is particularly relevant in multi-user environments, especially in **massive MIMO** and **millimeter-wave (mmWave)** systems.
+The MIMO (Multiple Input Multiple Output) technology uses multiple antennas at both the transmitter and receiver to send and receive several signals at the same time over the same radio channel. This wireless technology can exploit the beamforming gain, the spatial multiplexity and diversity gains to improve the reliability of data reception and increase the spectral efficiency. To meet the ever-increasing of data traffic and the future demands, Thomas Marzetta  has shown the efficiency of implementing a large number of transmit antennas, M ≫ 1, to serve  a finite number of users, K, at the same time-frequency resources. This design is commonly referred to as massive MIMO or large-scale antenna arrays.
+
+In the 3GPP standards, it first appeared in LTE (Release 8) with basic 2×2 MIMO, later growing to 4×4 and 8×8 with LTE-Advanced (Releases 10–12), along with features like carrier aggregation and coordinated multi-point (CoMP). Release 13 introduced Full-Dimension MIMO (FD-MIMO) with 3D beamforming, paving the way for Massive MIMO. The real breakthrough came with 5G NR (Release 15), where large antenna arrays, beamforming, and support for both sub-6 GHz and mmWave made MIMO central to 5G performance. Newer releases (16–18, 5G-Advanced) refine this further with smarter beam management, better feedback, and multi-point transmission, making MIMO one of the core technologies driving today’s mobile networks. 
+
+MIMO systems often face strong inter-user interference, which is usually managed with precoding or beamforming. These methods rely on full channel state information (CSI) at the base station, but with many antennas, obtaining full CSI is impractical. In mmWave systems, this challenge is eased because the channels are highly directional and very sensitive to blockages—so non-line-of-sight paths are weak compared to the line-of-sight link. This means a user’s spatial position (angle and distance from the base station) can effectively describe the channel. 
+
+The objective is to define angle-based interference metric that could reflects the spatial interference between the users using only their direction angles. This metric could be implemented to cluster the users with high interference together in the same groups. Note that some works utilize the angular distance for the clustering. However, this metric does not describe properly the inter-user interference. Indeed, the beamwidth is very dependent on the antennas’ number and the steering angle of the beam. 
+
 
 ---
 
