@@ -7,7 +7,7 @@ authors:
 - Charlotte Langlais
 - Bachar El Hassan
 - Michel Jezequel
-date: '2020-01-01'
+date: '2020-02-18'
 publishDate: '2025-07-21T15:00:41.932923Z'
 publication_types:
 - paper-conference
@@ -16,12 +16,12 @@ links:
 - name: URL
   url: https://ieeexplore.ieee.org/abstract/document/9097152/
 
-abstract: Thanks to the high directionality of millimeter-wave (mmWave) channels, angle-domain beamforming is an appealing technique for multi-user multiple-input multiple-output (MU-MIMO) in terms of sum-throughput performance and limited feedback. By utilizing only the angular information of users at the transmitter, we propose an angle-domain non-orthogonal multiple access (NOMA) scheme to enhance the sum-throughput of the mmWave MU-MIMO system, especially in congested cells. We first derive a set of angular-based performance metrics, such as the inter-user spatial interference, the user channel quality, and the sum-throughput, by exploiting the specific features of the mmWave propagation. Then, a multi-user clustering algorithm is developed based on the spatial interference metric, and a new user ordering strategy is proposed using the angular-based channel quality metric. Additionally, we design a power allocation method that maximizes the angular-based sum-throughput. Extensive numerical results show that the proposed scheme significantly improves the performance of the mmWave MU-MIMO system by achieving up to 39% increase in the spectral efficiency when the number of users is close to the number of antennas. Moreover, we find that the proposed user ordering strategy outperforms other limited feedback strategies, and the angular-based power allocation allows for efficient successive interference cancellation.
+abstract: In millimeter-wave wireless communications, beamforming, also known as beamsteering is a promising technique that enables the base station, with a large number of antennas, to mitigate the tremendous path loss. This paper aims to assess the performance of two digital beamformers, namely, conjugate beamforming (CB) and digital beamsteering (DBS) in a millimeter-wave environment based on geometric aspects, such as the antenna array topology or the location of the user in the cell. The realistic channel model NYUSIM, from New York University, reproduces a mono- and multi-path urban scenario. We show that DBS, with only line-of-sight path angle information at the transmitter, outperforms CB, with full channel state information at the transmitter, in mono-path environment. However, in multipath scenario, DBS is not able to exploit the diversity of nonline-of-sight paths and CB outperforms DBS.
 
 # Summary. An optional shortened abstract.
-summary: We propose an angle-domain NOMA scheme for mmWave MU-MIMO systems that uses only users’ angular information to boost sum-throughput, especially in crowded cells. By designing new clustering, user ordering, and power allocation strategies based on angular metrics, our approach improves spectral efficiency by up to 39% and enables more effective interference management.
+summary: We evaluate the geometric features of conjugate beamforming and angle-domain digital beamforming for millimeter-wave communications using the NYUSIM channel model. 
 
-tags: [MIMO, Beamforming, MmWave, NOMA, partial channel state information]
+tags: [MIMO, Beamforming, MmWave, partial channel state information]
 
 
 # Display this page in the Featured widget?
