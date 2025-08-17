@@ -69,8 +69,8 @@ education:
     summary: |
       My Master’s coursework included advanced TCP/IP and QoS, cryptography, radio and optical communication systems, coding theory, microwaves and propagation techniques, and telecom network architectures
     button:
-      text: 'Master’s Transcript (PDF)'
-      url_pdf: uploads/MasterTranscript.pdf
+      text: 'Master’s Transcript vb (PDF)'
+      url: /uploads/MasterTranscript.pdf
 
   - area: B.Eng. in Electrical and Electronic Engineering – Computer and Communications Section
     institution: Faculty of Engineering - Lebanese University, Lebanon
