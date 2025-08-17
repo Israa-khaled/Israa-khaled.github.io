@@ -12,17 +12,17 @@ address:
   postcode: '29200'
   country: 'France'
 
-summary: I successfully defended my PhD thesis in the telecommunications domain at IMT Atlantique, where I conducted advanced research on cutting-edge communication technologies.
+summary: I successfully defended my PhD thesis in the telecommunications domain at IMT Atlantique, where I conducted advanced research on cutting-edge wireless communication technologies.
 abstract: 'To meet the rapid growth in the number of connected devices and the quality-of-servicere quirements of innovative services, the 5G and beyond cellular generations have suggested new technologies, such as millimeter-wave (mmWave) bands, massive multiple-input multiple-output (MIMO), and non-orthogonal multiple access (NOMA). The integration of these technologies, namely "massive MIMO-NOMA-aided mmWave communications," can significantly enhance the network capacity. However, the implementation of a massive number of antennas at mmWave bands poses many challenging issues, including power consumption, hardware complexity, and channel estimation overhead. The aim of this work is to tackle these issues in the mmWave massive MIMO-NOMA systems. To do so, we exploit the key feature of mmWave channels, i.e., the highly directional transmission, that makes the angular information a promising partial channel state information. First, we investigate the performance of a low-complex angle-domain digital beamforming precoder in mmWave massive-MIMO systems using the realistic and statistical mmWave channel model called NYUSIM from New York University. Second, we propose an angle-domain MIMO-NOMA scheme to enable the capacity of serving more users compared to the conventional AD-DBF. In particular, we derive new angular-based metrics to design angle-domain user clustering and ordering, and power allocation techniques. Third, we adopt angle-domain hybrid beamforming to reduce power consumption, complexity and cost, when hundreds of antennas (e.g., 128, 256) are implemented at the transmitter. Specifically, we propose different angle-domain schemes that aim at leveraging more degrees of freedom and enabling communication even when the number of users is greater than that of radio-frequency chains. In this work, we have shown that this massive MIMO-NOMA mmWave communication based on angular information provides massive user connectivity, even in overloaded scenarios, with low channel estimation overhead. Moreover, to lower complexity and cost, a hybrid version is available.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-07-23T13:00:00Z'
-date_end: '2025-07-23T15:00:00Z'
+date: '2022-03-28T13:00:00Z'
+date_end: '2022-03-28T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-07-23'
+publishDate: '2022-03-28'
 
 authors:
   - admin
