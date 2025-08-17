@@ -57,7 +57,7 @@ education:
     date_start: 2018-10-01
     date_end: 2022-03-28
     summary: |
-      Thesis specializing in 5G technologies, including massive MIMO, NOMA, and mmWave bands. Focused on developing communication schemes with partial channel knowledge, particularly angular information. Supervised by Dr. HDR Charlotte Langlais and Dr. Ammar El Falou. Presented papers at 5 international conferences with peer-reviewed contributions published in two IEEE journals.
+      Thesis specializing in 5G technologies, including massive MIMO, NOMA, and mmWave bands. Focused on developing communication schemes with partial channel knowledge, particularly angular information. Supervised by Dr. HDR Charlotte Langlais and Dr. Ammar El Falou. Presented papers at 4 international conferences with peer-reviewed contributions published in two IEEE journals.
     button:
       text: 'Read Thesis'
       url: 'https://theses.hal.science/tel-03744486'
@@ -68,6 +68,9 @@ education:
     date_end: 2018-07-01
     summary: |
       My Master’s coursework included advanced TCP/IP and QoS, cryptography, radio and optical communication systems, coding theory, microwaves and propagation techniques, and telecom network architectures
+    button:
+      text: 'Master’s Transcript (PDF)'
+      url: uploads/MasterTranscript_Israa
 
   - area: B.Eng. in Electrical and Electronic Engineering – Computer and Communications Section
     institution: Faculty of Engineering - Lebanese University, Lebanon
