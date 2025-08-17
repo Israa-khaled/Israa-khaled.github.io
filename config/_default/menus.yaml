@@ -23,5 +23,5 @@ main:
   #  url: projects/
    # weight: 30
   - name: Technical Reflections
-    url: reflections/
+    url: teaching/
     weight: 40
