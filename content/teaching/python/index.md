@@ -8,7 +8,7 @@ draft: false
 summary: Learn how angular information can be used to estimate inter-user interference in mmWave massive MIMO systems without full channel state information.
 ---
 
-# MIMO and 3GPP Standards
+## MIMO and 3GPP Standards
 
 The MIMO (Multiple Input Multiple Output) technology uses multiple antennas at both the transmitter and receiver to send and receive several signals at the same time over the same radio channel. This wireless technology can exploit the beamforming gain, the spatial multiplexity, and diversity gains to increase spectral efficiency and reliability. To meet the ever-increasing data traffic and future demands, Thomas Marzetta has shown the efficiency of implementing a large number of transmit antennas, to serve a finite number of users, at the same time-frequency resources. This design is commonly referred to as massive MIMO or large-scale antenna arrays.
 
@@ -47,4 +47,4 @@ This metric is symmetric and bounded: {{< math >}}$ \beta_{k,u} = \beta_{u,k} \i
 
 During my work, I found that the $\beta_{k,u}$ metric is crucial for estimating inter-user interference using only the spatial directions $\vec{\Theta}_{1,k}$. Based on this metric, I developed user clustering algorithms for scenarios where the base station applies either digital or hybrid beamforming using only the estimated spatial directions. 
 
-# For more details, please refer to my IEEE Access 2021 paper and Chapter 4 of my PhD thesis.
+## For more details, please refer to my IEEE Access 2021 paper and Chapter 4 of my PhD thesis.
