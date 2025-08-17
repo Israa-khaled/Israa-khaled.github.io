@@ -41,7 +41,7 @@ e^{j\left\{ (m_x-1)(\omega_x(\vec{\Theta}_{1,u})-\omega_x(\vec{\Theta}_{1,k})) +
 \]
 {{< /math >}}
 
-This metric is symmetric and bounded: {{< math >}}$ \beta_{k,u} = \beta_{u,k} \in (0,1) ${{< /math >}}, and can also be written as {{< math >}}$ \beta_{k,u} = |AF_{(\vec{\Theta}_{1,u})}(\vec{\Theta}_{1,k})| ${{< /math >}}. For a uniform linear array (ULA) along the {{< math >}}$ x ${{< /math >}}-axis, it simplifies to {{< math >}}$ AF_{(\theta_{1,u})}(\theta) ${{< /math >}}.
+This metric is symmetric and bounded: {{< math >}}$ \beta_{k,u} = \beta_{u,k} \in (0,1) ${{< /math >}}, and can also be written as {{< math >}}$ \beta_{k,u} = |AF_{(\vec{\Theta}_{1,u})}(\vec{\Theta}_{1,k})| ${{< /math >}}, where the later is the array factor. 
 
 ![Normalized array factor](/uploads/pattern_beta.jpg)  
 

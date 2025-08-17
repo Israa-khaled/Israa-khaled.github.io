@@ -16,7 +16,7 @@ sections:
       title: Technical Reflections
       filters:
         folders:
-          - teaching
+          - reflections
     design:
       view: article-grid
       columns: 2
