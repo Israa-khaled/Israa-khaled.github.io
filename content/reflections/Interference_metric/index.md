@@ -16,7 +16,7 @@ In the 3GPP standards, MIMO first appeared in LTE (Release 8) with basic 2×2 MI
 
 ## Inter-User Interference in MIMO
 
-MIMO systems often experience **inter-user interference**, typically managed through precoding or beamforming. These techniques require full **channel state information (CSI)** at the base station, but acquiring full CSI becomes impractical as antenna counts increase. In mmWave systems, this challenge is mitigated because channels are highly directional and line-of-sight (LOS) paths dominate, while non-LOS paths are weak. This allows a user’s spatial position (angle and distance from the base station) to effectively characterize the channel.
+Multi-user MIMO systems often experience **inter-user interference**, typically managed through precoding or beamforming. These techniques require full **channel state information (CSI)** at the base station, but acquiring full CSI becomes impractical as antenna counts increase. In mmWave systems, this challenge is mitigated because channels are highly directional and line-of-sight (LOS) paths dominate, while non-LOS paths are weak. This allows a user’s spatial position (angle and distance from the base station) to effectively characterize the channel.
 
 The goal is to define an **angle-based interference metric** that quantifies spatial interference between users using only their directional angles. This metric can help cluster users likely to interfere with one another. Previous approaches relying solely on angular distance fail to capture true interference, as beamwidth depends on the number of antennas and the beam steering angle.
 
