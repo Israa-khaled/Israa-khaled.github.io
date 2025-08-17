@@ -45,6 +45,6 @@ This metric is symmetric and bounded: {{< math >}}$ \beta_{k,u} = \beta_{u,k} \i
 
 ![Normalized array factor](/uploads/pattern_beta.jpg)  
 
-During my work, I found that the $\beta_{k,u}$ metric is crucial for estimating inter-user interference using only the spatial directions $\vec{\Theta}_{1,k}$. Based on this metric, I developed user clustering algorithms for scenarios where the base station applies either digital or hybrid beamforming using only the estimated spatial directions. 
+During my work, I found that the $\beta_{k,u}$ metric is crucial for estimating inter-user interference using only the spatial directions $\vec{\Theta}_{1,k}$. This metric accounts for both the angular distance and the beamwidth, which depend on the steering angle and the number of antennas. Based on this metric, I developed user clustering algorithms for scenarios where the base station applies either digital or hybrid beamforming using only the estimated spatial directions. 
 
 ## For more details, please refer to my IEEE Access 2021 paper and Chapter 4 of my PhD thesis.
