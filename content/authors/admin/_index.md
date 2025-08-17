@@ -54,8 +54,8 @@ interests:
 education:
   - area: Ph.D. in Telecommunications
     institution: IMT Atlantique, France
-    date_start: "10-2018"
-    date_end: "03-2022"
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Thesis specializing in 5G technologies, including massive MIMO, NOMA, and mmWave bands. Focused on developing communication schemes with partial channel knowledge, particularly angular information. Supervised by Dr. HDR Charlotte Langlais and Dr. Ammar El Falou. Presented papers at 4 international conferences with peer-reviewed contributions published in two IEEE journals.
     button:
