@@ -21,7 +21,7 @@ abstract: In millimeter-wave wireless communications, beamforming, also known as
 # Summary. An optional shortened abstract.
 summary: We evaluate the geometric features of conjugate beamforming and angle-domain digital beamforming for millimeter-wave communications using the NYUSIM channel model. 
 
-tags: [MIMO, Beamforming, MmWave, partial channel state information]
+tags: [MIMO, Beamforming, MmWave, Partial Channel State Information]
 
 
 # Display this page in the Featured widget?

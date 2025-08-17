@@ -19,7 +19,7 @@ abstract: Spectrum scarcity has motivated the exploration of the millimeter-wave
 # Summary. An optional shortened abstract.
 summary: We extend the NYUSIM 3D channel simulator to include RIS-assisted mmWave systems, making studies more realistic than existing theoretical models. Our validation and simulations show how RIS improves signal power, especially when direct links are weak or blocked.
 
-tags: [MIMO, Beamforming, MmWave Reconfigurable Intelligent Surface]
+tags: [MIMO, MmWave, Reconfigurable Intelligent Surface]
 
 
 # Display this page in the Featured widget?
