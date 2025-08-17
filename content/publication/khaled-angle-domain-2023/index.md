@@ -6,8 +6,8 @@ authors:
 - Charlotte Langlais
 - Michel Jezequel
 - Bachar Elhassan
-date: '2023-01-01'
-publishDate: '2025-07-21T15:00:41.920460Z'
+date: '2023-03-08'
+publishDate: '2023-03-08T15:00:41.920460Z'
 publication_types:
 - article-journal
 publication: '*IEEE Open Journal of the Communications Society*'
@@ -15,12 +15,13 @@ links:
 - name: URL
   url: https://ieeexplore.ieee.org/abstract/document/10064118/
 
-abstract: Thanks to the high directionality of millimeter-wave (mmWave) channels, angle-domain beamforming is an appealing technique for multi-user multiple-input multiple-output (MU-MIMO) in terms of sum-throughput performance and limited feedback. By utilizing only the angular information of users at the transmitter, we propose an angle-domain non-orthogonal multiple access (NOMA) scheme to enhance the sum-throughput of the mmWave MU-MIMO system, especially in congested cells. We first derive a set of angular-based performance metrics, such as the inter-user spatial interference, the user channel quality, and the sum-throughput, by exploiting the specific features of the mmWave propagation. Then, a multi-user clustering algorithm is developed based on the spatial interference metric, and a new user ordering strategy is proposed using the angular-based channel quality metric. Additionally, we design a power allocation method that maximizes the angular-based sum-throughput. Extensive numerical results show that the proposed scheme significantly improves the performance of the mmWave MU-MIMO system by achieving up to 39% increase in the spectral efficiency when the number of users is close to the number of antennas. Moreover, we find that the proposed user ordering strategy outperforms other limited feedback strategies, and the angular-based power allocation allows for efficient successive interference cancellation.
+abstract: The millimeter-wave (mmWave) large-scale antenna arrays (LSAAs) systems play a vital role in increasing the beamforming (BF) gain and acquiring highly directional propagation. Recently, non-orthogonal multiple access (NOMA) has been integrated into these systems to  manage massive connectivity and achieve spectral-efficient communications. In this paper, we focus on angle-domain (AD) hybrid beamforming (BF) for mmWave LSAAs and NOMA systems, thanks to the low complexity, power consumption, and channel estimation overhead. However, with limited number of radio-frequency chains, the hybrid BF-based single-beam (SB)-NOMA scheme generating a single beam to serve the NOMA users fails to exploit the multi-user diversity due to narrow beams with LSAAs. To tackle this limitation, we design different schemes offering additional degrees of freedom. Interestingly, they require only the knowledge of angular information and are suitable for either linear or rectangular antenna arrays, unlike those proposed in the literature. The first scheme exploits the time-domain resources to schedule groups having high spatial interference within distinct time slots. Further, {\color{violet}  to minimize the need for fast and precise synchronization when applying time division multiple access (TDMA) with mmWave NOMA}, we leverage the multi-beam (MB)-NOMA framework. And we propose a joint SB- and MB-NOMA scheme to benefit from NOMA multi-user diversity, whatever the cell load and the users’ positions. Using the New York University channel simulator (NYUSIM), we further validate the performance of the proposed schemes compared to the solution proposed in the literature and others using fully digital BF. Specifically, the proposed TDMA-based scheme achieves a sum-rate gain of up to $ 83\% $ over the TDMA-based one existing in the literature. Moreover, we verify the superiority of applying both SB- and MB-NOMA instead of only MB-NOMA.
+
 
 # Summary. An optional shortened abstract.
-summary: We propose an angle-domain NOMA scheme for mmWave MU-MIMO systems that uses only users’ angular information to boost sum-throughput, especially in crowded cells. By designing new clustering, user ordering, and power allocation strategies based on angular metrics, our approach improves spectral efficiency by up to 39% and enables more effective interference management.
+summary: We design angle-domain schemes for mmWave assive MIMO systems using hybrid beamforming techniques. One is designed using only NOMA, and the other is a joint of TDMA and NOMA.
 
-tags: [MIMO, Hynrid Beamforming, MmWave, NOMA, partial channel state information]
+tags: [MIMO, Hynrid Beamforming, MmWave, NOMA, Partial Channel State Information]
 
 
 # Display this page in the Featured widget?

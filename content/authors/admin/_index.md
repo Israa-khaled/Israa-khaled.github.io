@@ -67,14 +67,14 @@ education:
     date_start: 2017-10-01
     date_end: 2018-07-01
     summary: |
-      Focused on wireless communication systems and network security. Contributed to research on 5G propagation channels and precoding for large antenna arrays.
+      My Master’s coursework included advanced TCP/IP and QoS, cryptography, radio and optical communication systems, coding theory, microwaves and propagation techniques, and telecom network architectures
 
   - area: B.Eng. in Electrical and Electronic Engineering – Computer and Communications Section
     institution: Faculty of Engineering - Lebanese University, Lebanon
     date_start: 2013-10-01
     date_end: 2018-07-01
     summary: |
-      Covered core engineering subjects with specialization in embedded systems, wireless communication, and digital signal processing.
+      Covered core engineering subjects with specialization in electronics, wireless communications, satellite systems, signal processing, and programming.
 
     #summary: |
      # GPA: 3.4/4.0
@@ -126,7 +126,7 @@ work:
     summary: |
       - Developed angle-domain NOMA schemes for massive MIMO mmWave systems using partial channel state information.
       - Introduced new angular performance metrics for mmWave propagation environments.
-      - Designed and optimized resource allocation algorithms using angular data to enhance spectral efficiency.
+      - Designed and optimized resource allocation algorithms to enhance spectral efficiency with lower estimation overhead.
 
   - position: Research Intern
     company_name: LabSTICC, IMT Atlantique

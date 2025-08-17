@@ -37,7 +37,7 @@ sections:
       text: |-
         I’m a telecom research engineer with a focus on radio resource management for cellular systems, wake-up radios for sensor networks, massive MIMO, millimeter-wave communications, reconfigurable intelligent surfaces (RIS), and power consumption models in 4G and 5G radio access networks.
         
-        I’m especially interested in standardization and in helping develop the next generation of technologies that will shape the future of telecommunications.
+        I’m especially interested in RAN technologies and standardization and in helping develop the next generation of technologies that will shape the future of telecommunications.
         
         🚀 Always happy to exchange ideas and explore collaborations — feel free to reach out!      
 

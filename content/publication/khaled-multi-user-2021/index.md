@@ -7,7 +7,7 @@ authors:
 - Bachar A. Elhassan
 - Michel Jezequel
 date: '2021-09-13'
-publishDate: '2025-07-21T15:00:41.898747Z'
+publishDate: '2021-09-13T15:00:41.898747Z'
 publication_types:
 - article-journal
 publication: '*IEEE Access*'

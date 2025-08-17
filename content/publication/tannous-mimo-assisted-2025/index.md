@@ -6,7 +6,7 @@ authors:
 - Charlotte Langlais
 - Ammar El Falou
 date: '2025-02-20'
-publishDate: '2025-07-21T15:00:41.945487Z'
+publishDate: '2025-02-20T15:00:41.945487Z'
 publication_types:
 - paper-conference
 publication: '*2025 5th IEEE Middle East and North Africa Communications Conference

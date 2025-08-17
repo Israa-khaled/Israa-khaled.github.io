@@ -8,7 +8,7 @@ authors:
 - Bachar El Hassan
 - Michel Jezequel
 date: '2020-02-18'
-publishDate: '2025-07-21T15:00:41.932923Z'
+publishDate: '2020-02-18T15:00:41.932923Z'
 publication_types:
 - paper-conference
 publication: '*WSA 2020; 24th International ITG Workshop on Smart Antennas*'
