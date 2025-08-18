@@ -107,7 +107,7 @@ work:
       - Designed and developed evaluation boards for Monolithic Microwave Integrated Circuits (MMICs) using AutoCAD.
       - Performed RF characterization and measurement of MMICs, including S-parameters and power benches.
 
-  - position: Postdoctoral Research Fellow
+  - position: Postdoctoral Researcher
     company_name: LabSTICC, IMT Atlantique
     company_url: ''
     company_logo: ''
@@ -168,29 +168,13 @@ skills:
 
 
 
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Matlab
-        description: ''
-        percent: 100
-        icon: code-bracket
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Writing
-        description: ''
-        percent: 60
-        icon: /assets/media/icons/icon-writing.svg
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+languages:
+  - name: French
+    level: Fluent
+  - name: Arabic
+    level: Native
+  - name: English
+    level: Professional
 
 
 
