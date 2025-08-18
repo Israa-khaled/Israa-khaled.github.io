@@ -166,16 +166,13 @@ skills:
         percent: 80
         icon: camera
 
-
-
 languages:
   - name: French
-    level: Fluent
+    description: Fluent
   - name: Arabic
-    level: Native
+    description: Native
   - name: English
-    level: Professional
-
+    description: Professional
 
 
 # Awards.
