@@ -160,7 +160,7 @@ skills:
       - name: Writing
         description: ''
         percent: 60
-        icon: /assets/media/icons/icon-writing.svg
+        icon: icon-writing
       - name: Photography
         description: ''
         percent: 80
