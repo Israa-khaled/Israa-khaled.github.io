@@ -167,8 +167,8 @@ skills:
         icon: camera
 
 languages:
-  - name: Arabic
-    description: Native
+  - name: Arabic 
+    description: Native Language
   - name: French
     description: Fluent
   - name: English
