@@ -115,10 +115,10 @@ work:
     date_end: 2023-10-31
     summary: |
       - Developed MIMO-assisted wake-up radio methods to improve energy efficiency in IoT networks.
-      - Derived analytical models using stochastic geometry.
+      - Derived analytical model using stochastic geometry.
       - Supervised two research internships:
-        - April – August 2022: Extended NYUSIM (NYU’s mmWave simulator) to support Reconfigurable Intelligent Surfaces (RIS).
-        - April – September 2024: Investigated MIMO + wake-up radio integration with beamforming and channel modeling.
+        - April – August 2022: Extended NYUSIM (NYU’s mmWave simulator) to support Reconfigurable Intelligent Surfaces.
+        - April – September 2024: Investigated MIMO beamforming + wake-up radio integration.
 
   - position: Research Engineer / Ph.D. Candidate
     company_name: LabSTICC, IMT Atlantique
