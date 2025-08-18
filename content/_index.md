@@ -35,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a telecom research engineer with expertise in radio resource management for cellular systems, wake-up radios for sensor networks, massive MIMO, millimeter-wave communications, reconfigurable intelligent surfaces (RIS), and power consumption modeling in 4G and 5G radio access networks.
+        I am a telecom research engineer with expertise in radio resource management for cellular systems, wake-up radios for sensor networks, power consumption modeling in 4G and 5G radio access networks (RANs), and emerging technologies as massive MIMO, millimeter-wave communications, and reconfigurable intelligent surfaces (RIS) .
         
-        I am passionate passionate about RAN standardization efforts and the development of innovative technologies that drive progress in the telecommunications field.
+        I am passionate about RAN standardization efforts and the development of innovative technologies that drive progress in the telecommunications field.
         
         🚀 Always happy to exchange ideas and explore collaborations — feel free to reach out!      
 
