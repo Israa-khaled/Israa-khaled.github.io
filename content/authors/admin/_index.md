@@ -167,10 +167,10 @@ skills:
         icon: camera
 
 languages:
-  - name: French
-    description: Fluent
   - name: Arabic
     description: Native
+  - name: French
+    description: Fluent
   - name: English
     description: Professional
 
