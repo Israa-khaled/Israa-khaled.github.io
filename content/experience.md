@@ -28,7 +28,7 @@ sections:
     content:
       title: Certificates
       username: admin
-  - block: resume-skills
+  - block: resume-languages
     content:
       title: Languages
       username: admin
