@@ -155,7 +155,7 @@ skills:
         icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
-    color_border: '#f0bf23'
+    color_border: '#57a7bbff'
     items:
       - name: Writing
         description: ''
