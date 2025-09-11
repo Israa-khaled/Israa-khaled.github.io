@@ -145,11 +145,11 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Matlab
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Matlab
+      - name: Python
         description: ''
         percent: 100
         icon: code-bracket
