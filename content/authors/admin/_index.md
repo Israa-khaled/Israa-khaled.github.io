@@ -180,6 +180,22 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Programming with C ++
+    url: https://coursera.org/share/de749b83d395ca6cf32866dd158c0b89
+    certificate_url: https://coursera.org/share/de749b83d395ca6cf32866dd158c0b89
+    date: '2025-09-03'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      This course covers fundamental and advanced C++ programming concepts, focusing on developing dynamic applications using object-oriented programming. While I was familiar with the basics from my studies at the Lebanese University, this course provides a thorough review and deepens understanding. 
+  - title: Git and GitHub Essentials
+    url: https://www.credly.com/badges/5eaf4597-dc38-404a-95d1-946faac4ea07
+    certificate_url: https://www.credly.com/badges/5eaf4597-dc38-404a-95d1-946faac4ea07
+    date: '2025-08-26'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      Course covered version control, Git concepts, and GitHub for collaborative coding and DevOps.
   - title: Standardisation & Technology
     url: https://www.coursera.org/account/accomplishments/verify/CZCJVQHT3JHX
     certificate_url: https://www.coursera.org/account/accomplishments/verify/CZCJVQHT3JHX
@@ -195,7 +211,7 @@ awards:
     awarder: Coursera
     icon: coursera
     summary: |
-      This course included several labs where I got to practice using supervised machine learning. I already knew the basics, but the course helped me focus on how to use it better and how to build projects using tools like TensorFlow and SymPy.
+      This course included supervised machine learning labs where I practiced using it. I knew the basics, but the course helped me focus on better usage and building machine learning models in Python with NumPy and scikit-learn. 
 ---
 
 ## About Me
