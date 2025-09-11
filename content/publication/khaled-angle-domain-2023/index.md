@@ -21,7 +21,7 @@ abstract: The millimeter-wave (mmWave) large-scale antenna arrays (LSAAs) system
 # Summary. An optional shortened abstract.
 summary: We design angle-domain schemes for mmWave assive MIMO systems using hybrid beamforming techniques. One is designed using only NOMA, and the other is a joint of TDMA and NOMA.
 
-tags: [MIMO, Hynrid Beamforming, MmWave, NOMA, Partial Channel State Information]
+tags: [Hybrid Beamforming, MmWave, NOMA, Partial Channel State Information, MIMO]
 
 
 # Display this page in the Featured widget?

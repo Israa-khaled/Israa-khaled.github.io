@@ -2,7 +2,7 @@
 title: Is it possible to measure spatial interference using only angular information? 
 date: 2025-07-23
 author: admin
-tags: [mmWave, Interference, Massive MIMO, Angular Information, Beamforming]
+tags: [MmWave, Interference, Massive MIMO, Angular Information, Beamforming]
 categories: [Research, Wireless Communication]
 draft: false
 summary: Learn how angular information can be used to estimate inter-user interference in mmWave massive MIMO systems without full channel state information.

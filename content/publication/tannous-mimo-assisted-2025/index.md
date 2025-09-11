@@ -21,7 +21,7 @@ abstract: The Internet of Things (IoT) often involves battery-powered devices pl
 # Summary. An optional shortened abstract.
 summary: We study how MIMO can improve wake-up radios (WuR) for IoT devices. By using multiple antennas and beamforming, we achieve more reliable wake-ups and fewer false triggers compared to traditional SISO systems. Our simulations confirm that MIMO-assisted WuR is a more efficient solution for IoT networks.
 
-tags: [Internet of Things, Wake-up radio, MIMO, Beamforming]
+tags: [Wake-up radio, Internet of Things, MIMO, Beamforming]
 
 
 # Display this page in the Featured widget?
