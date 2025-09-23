@@ -13,7 +13,7 @@ publication: '*2023 Joint European Conference on Networks and Communications & 6
   Summit (EuCNC/6G Summit)*'
 links:
 - name: URL
-  url: https://ieeexplore.ieee.org/abstract/document/10188290/
+  url: https://ieeexplore.ieee.org/abstract/document/10188290
 abstract: Spectrum scarcity has motivated the exploration of the millimeter-wave (mmWave) band as a key technology to cope with the ever-increasing data traffic. However, in this band, radiofrequency waves are highly susceptible to transmission loss and blockage. Recently, reconfigurable intelligent surfaces (RIS) have been proposed to transform the random nature of the propagation channel into a  programmable and controllable radio environment. This innovative technique can improve mmWave coverage. However, most works consider theoretical channel models. In order to fill the gap towards a realistic RIS channel simulator, we extend the 3D statistical channel simulator NYUSIM based on extensive measurements to help model RIS-assisted mmWave systems. We validate the extended simulator analytically and via simulations. In addition, we study the received power in different configurations. Finally, we highlight the effectiveness of using RIS when the direct link is partially blocked or non-existent.
 
 # Summary. An optional shortened abstract.
@@ -30,7 +30,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10064118'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10188290'
 url_code: ''
 url_dataset: ''
 url_poster: ''
